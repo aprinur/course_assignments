@@ -96,7 +96,7 @@
   - `cityname_forecast.json` for the 5-day forecast.
 - Add a self-reflection text that explains your understanding of these topics.
 
----
+Instead of querying database by ourself, API is an easy way to interact with database. By following certain writing rule based on documentation, we can get the data we want with ease
 
 ### Grading Criteria (Total: 10 Points)
 1. Part 1: Fetch Current Weather Data for Multiple Cities (2 points)

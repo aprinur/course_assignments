@@ -23,11 +23,11 @@ END
 ### **Critical Thinking & Research Questions:**  
 1. **Why is pseudocode useful before writing actual code in a programming language?**  
 
-    (answer here)
+    Because pseudocode is more descriptive than 
 
 2. **How does pseudocode differ from real programming languages like Python or JavaScript?**  
 
-    (answer here)
+    Because pseudocode is not a programming language, it is a way to write algorithm with human language
 
 3. **What are some best practices for writing clear and understandable pseudocode?**  
 
